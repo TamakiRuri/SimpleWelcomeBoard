@@ -2,7 +2,7 @@
 A simple welcome board for VRChat Worlds with Udon
 Simple Welcome Boardは、VRChat向けのWorldギミックです
 
-!(./Images/Sample.png)[Sample]
+![Sample](./Images/Sample.png)
 
 This board requires VRChat API, without VRChat SDK this thing won't work.
 このギミックはVRChatのAPIを利用しています。そのままではVRChat以外での利用ができません。
