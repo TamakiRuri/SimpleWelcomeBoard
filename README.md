@@ -8,7 +8,7 @@ This board requires VRChat API, without VRChat SDK this thing won't work.
 Made with Unity 2022.3.22f1, Unity 2019 will not be supported
 Unity 2022.3.22f1対応。Unity 2019は対応する予定がありません。
 
-Noto Sans JP is bunded under OFL license.
+Noto Sans JP is bounded under OFL license.
 
 ### Import / 導入
 
@@ -25,3 +25,8 @@ During Offline testing, the instance owner will be shown as "Err". It's a known 
 もしTextMeshProの導入ウィンドウが出てきた場合、Essentialsだけ導入すれば大丈夫です。
 
 SDKのオフラインテスト（Play モードではない）では、Instance Ownerが「Err」になりますが、これは既知の問題です。
+
+### If there are any issues / もしエラーが出ましたら
+
+Please report in the issues.
+issuesを書いていただけると助かります。
