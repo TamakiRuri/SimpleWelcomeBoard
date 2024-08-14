@@ -16,6 +16,14 @@ Unity 2022.3.22f1対応。Unity 2019は対応する予定がありません。
 
 Noto Sans JP is bounded under OFL license.
 
+### Sample World
+
+A working sample is in RuriSapphire's home world. (with Minor color changes)
+
+RuriSapphireのホームワールドでサンプルがあります。（色を少し変更しています）
+
+[VRChat](https://vrchat.com/home/world/wrld_1888e25d-e401-4bd1-a338-6794126bd227)
+
 ### Import / 導入
 
 Download the unitypackage at Release section.
@@ -37,4 +45,5 @@ SDKのオフラインテスト（Play モードではない）では、Instance 
 ### If there are any issues / もしエラーが出ましたら
 
 Please report in the issues.
+
 issuesを書いていただけると助かります。
