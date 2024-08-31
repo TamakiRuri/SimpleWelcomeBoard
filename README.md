@@ -14,7 +14,9 @@ Made with Unity 2022.3.22f1, Unity 2019 will not be supported
 
 Unity 2022.3.22f1対応。Unity 2019は対応する予定がありません。
 
-Noto Sans JP is bounded under OFL license.
+Noto Sans JP is used under OFL license.
+
+group.png is used under MIT license by [Heroicons](https://heroicons.com/)
 
 ### Sample World
 
