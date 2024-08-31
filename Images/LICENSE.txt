@@ -1,0 +1,3 @@
+group.png is licensed under MIT license by heroicons
+
+https://heroicons.com/
