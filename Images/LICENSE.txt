@@ -1,3 +1,7 @@
 group.png is licensed under MIT license by heroicons
 
 https://heroicons.com/
+
+bed.png is licensed under Apache2.0 license by Google Material Design Icons
+
+https://github.com/google/material-design-icons/blob/master/LICENSE

@@ -18,6 +18,8 @@ Noto Sans JP is used under OFL license.
 
 group.png is used under MIT license by [Heroicons](https://heroicons.com/)
 
+bed.png is licensed under Apache2.0 license by Google Material Design Icons
+
 ### Sample World
 
 A working sample is in RuriSapphire's home world. (with Minor color changes)
