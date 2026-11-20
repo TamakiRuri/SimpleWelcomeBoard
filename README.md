@@ -8,11 +8,14 @@ Simple Welcome Boardは、VRChat向けのワールド情報表示用ギミック
 
 このギミックはVRChatのAPIを利用しています。そのままではVRChat以外での利用ができません。
 
-Unity 2022.3.22f1対応。Unity 2019は対応する予定がありません。
+Unity 2022.3.22f1, 6000.0.67f1対応。
 
 This board requires VRChat API, without VRChat SDK this thing won't work.
 
-Made with Unity 2022.3.22f1, Unity 2019 will not be supported
+Made with Unity 2022.3.22f1 and supports Unity 6000.0.67f1.
+
+
+### 3rd Party Licenses
 
 Noto Sans JP is used under OFL license.
 
@@ -52,7 +55,7 @@ Download the unitypackage at Release section.
 
 もしTextMeshProの導入ウィンドウが出てきた場合、Essentialsだけ導入すれば大丈夫です。
 
-SDKのオフラインテスト（Play モードではない）では、Instance Ownerが「Err」になりますが、これはぶいちゃの仕様です。
+SDKのオフラインテスト（Play モードではない）では、Instance Ownerが「Err」になりますが、これはVRChatの仕様です。
 
 Drag the prefab and put everywhere you like, the board will work itself out.
 

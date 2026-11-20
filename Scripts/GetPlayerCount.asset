@@ -12,16 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: GetPlayerCount
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 6ea99b0023ddc3f42a614ff7ee7dbb63,
-    type: 2}
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 33e8c25600ec1dd42b4a05afcd120402, type: 2}
   udonAssembly: 
   assemblyError: 
   sourceCsScript: {fileID: 11500000, guid: 7ed2ac41ee574e848baeb169a1fefc79, type: 3}
   scriptVersion: 2
   compiledVersion: 2
-  behaviourSyncMode: 0
+  behaviourSyncMode: 1
   hasInteractEvent: 0
-  scriptID: -576708305697218977
+  scriptID: 248988768568501884
   serializationData:
     SerializedFormat: 2
     SerializedBytes: 

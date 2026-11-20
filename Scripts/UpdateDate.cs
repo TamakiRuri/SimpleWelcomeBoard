@@ -6,15 +6,20 @@ using UnityEngine;
 using VRC.SDKBase;
 using VRC.Udon;
 
-public class UpdateDate : UdonSharpBehaviour
+namespace com.rurinya.welcomeboard
 {
-    [SerializeField]private TextMeshProUGUI targetObject;
-    void Start()
+    [UdonBehaviourSyncMode(BehaviourSyncMode.None)]
+    public class UpdateDate : UdonSharpBehaviour
     {
-        targetObject.text = DateTime.Now.ToString("yyyy/MM/dd");
-    }
-    void Update(){
-        targetObject.text = DateTime.Now.ToString("yyyy/MM/dd");
+        [SerializeField]private TextMeshProUGUI targetObject;
+        void Start()
+        {
+            targetObject.text = DateTime.Now.ToString("yyyy/MM/dd");
+        }
+        void Update(){
+            targetObject.text = DateTime.Now.ToString("yyyy/MM/dd");
 
+        }
     }
 }
+

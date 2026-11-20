@@ -3,18 +3,21 @@ using System;
 using TMPro;
 using UdonSharp;
 using UnityEngine;
-using UnityEngine.InputSystem.EnhancedTouch;
 using VRC.SDKBase;
 using VRC.Udon;
 
-public class UpdateLocalUserID : UdonSharpBehaviour
+namespace com.rurinya.welcomeboard
 {
-    [SerializeField]private TextMeshProUGUI TextObject;
-    private VRCPlayerApi playerapi;
-    private String localPlayer;
-    void Start()
+    [UdonBehaviourSyncMode(BehaviourSyncMode.None)]
+    public class UpdateLocalUserID : UdonSharpBehaviour
     {
-        localPlayer = Networking.LocalPlayer.displayName;
-        TextObject.text = localPlayer;
+        [SerializeField]private TextMeshProUGUI TextObject;
+        private VRCPlayerApi playerapi;
+        private String localPlayer;
+        void Start()
+        {
+            localPlayer = Networking.LocalPlayer.displayName;
+            TextObject.text = localPlayer;
+        }
     }
 }

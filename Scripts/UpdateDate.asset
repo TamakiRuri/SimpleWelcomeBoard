@@ -12,16 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: UpdateDate
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 46905d6ad6fb6f443b1d4430ac699aaa,
-    type: 2}
+  serializedUdonProgramAsset: {fileID: 11400000, guid: b24c546282610e944ad9256f2c29c078, type: 2}
   udonAssembly: 
   assemblyError: 
   sourceCsScript: {fileID: 11500000, guid: f657fc67358c72044b62471812288d48, type: 3}
   scriptVersion: 2
   compiledVersion: 2
-  behaviourSyncMode: 0
+  behaviourSyncMode: 1
   hasInteractEvent: 0
-  scriptID: 1162536194779073463
+  scriptID: 3446164695452560434
   serializationData:
     SerializedFormat: 2
     SerializedBytes: 
