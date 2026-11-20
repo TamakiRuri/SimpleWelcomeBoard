@@ -1,4 +1,4 @@
-group.png is licensed under MIT license by heroicons
+user.png and group.png is licensed under MIT license by heroicons
 
 MIT License
 
